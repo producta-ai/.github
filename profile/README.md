@@ -1,3 +1,3 @@
 # Hey, this is us 👋
 
-We're producta.ai
+We're [producta.ai](https://producta.ai)
