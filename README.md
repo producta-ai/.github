@@ -1,1 +1,3 @@
-Welcome to producta.ai
+# Hey, this is us 👋
+
+We're producta.ai
