@@ -1,2 +1,1 @@
-# .github
-Producta AI 
+Welcome to producta.ai
